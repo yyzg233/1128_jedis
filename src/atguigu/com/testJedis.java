@@ -20,6 +20,7 @@ public class testJedis {
 		
 		System.out.println(pong);
 		System.out.println(pong);
+		System.out.println(pong);
 	}
 	
 }
